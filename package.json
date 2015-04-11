@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.12.3",
+    "firebase": "^2.2.3",
     "green-bean": "^0.1.1"
   },
   "devDependencies": {},
